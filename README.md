@@ -1,5 +1,5 @@
 # sailing-theme
-Simple site created with HTML, CSS and JS without libraries.
+Simple site created with HTML, CSS.
 
 GitHub Pages:
 https://wellingttoonn.github.io/sailing-theme/
